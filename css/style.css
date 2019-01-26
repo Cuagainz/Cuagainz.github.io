@@ -6,7 +6,7 @@ body:after {
   content: "";
   display: table;
 }
-body:after {cczc
+body:after {
   clear: both;
 }
 html,
